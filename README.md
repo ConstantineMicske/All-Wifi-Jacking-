@@ -12,7 +12,19 @@ SilverBulletEX is an all-in-one wireless security auditing tool designed for pro
 * Lazy Mode: One-click access to Wifite for automated auditing.
 * Wordlist Generator: Built-in tool to create custom lethal wordlists.
 
-## 🚀 Installation
+## 🚀 Installation## 📸 Screen Demonstrations
+To ensure you are using the authentic SilverBulletEX and to avoid fake versions, please refer to the official interface below:
+
+<p align="center">
+  <img src="demo1.jpg" width="45%" />
+  <img src="demo2.jpg" width="45%" />
+</p>
+<p align="center">
+  <img src="demo3.jpg" width="45%" />
+  <img src="demo4.jpg" width="45%" />
+</p>
+
+> Note: Always verify the interface against these official screenshots to ensure your safety.
 
 `bash
 # Clone the repository
