@@ -1,4 +1,4 @@
-![SilverBulletEX Banner](banner.png)
+![SilverBulletEX Banner](banner.jpg)
 
 # 💀 SilverBulletEX V.1 💀
 The Reaper Wireless Pentest Suite for Kali Linux
